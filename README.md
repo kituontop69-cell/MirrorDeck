@@ -162,9 +162,13 @@ MirrorDeck/
 
 ## 👨‍💻 Developer & Author
 
-- **Developer**: **Kitub** (Kaushik Boruah)
-- **GitHub**: [@kituontop69-cell](https://github.com/kituontop69-cell)
-- **Repository**: [https://github.com/kituontop69-cell/MirrorDeck](https://github.com/kituontop69-cell/MirrorDeck)
+**Kaushik Boruah (Kitub / Kitu The Dev)**
+
+- 🌐 **Portfolio**: [gokaushik.com](https://gokaushik.com)
+- 🐙 **GitHub**: [@kituontop69-cell](https://github.com/kituontop69-cell)
+- 💼 **LinkedIn**: [Kaushik Boruah](https://www.linkedin.com/in/kaushik-boruah-471249339)
+- 🐦 **X / Twitter**: [@kituhere91406](https://x.com/kituhere91406)
+- 📦 **Repository**: [https://github.com/kituontop69-cell/MirrorDeck](https://github.com/kituontop69-cell/MirrorDeck)
 
 ---
 
