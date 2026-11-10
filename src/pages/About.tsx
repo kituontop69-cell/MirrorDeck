@@ -1,5 +1,5 @@
 import { useEffect, useState, type ReactNode } from 'react'
-import { Info, MonitorPlay, Smartphone, RefreshCw, LifeBuoy } from 'lucide-react'
+import { Info, MonitorPlay, Smartphone, RefreshCw, LifeBuoy, Sparkles, ExternalLink } from 'lucide-react'
 import { Section } from '../components/Section'
 import { Badge, Button } from '../components/ui'
 import { api } from '../lib/api'
@@ -56,6 +56,32 @@ export function AboutPage() {
             <li>Control not working (Xiaomi)? Enable “USB debugging (Security settings)” and reboot.</li>
             <li>Mirroring fails? Ensure Nova is present and the device runs Android 5.0 or newer.</li>
           </ul>
+        </div>
+
+        <div className="card p-5">
+          <h3 className="mb-3 flex items-center gap-2 text-[15px] font-semibold">
+            <Sparkles className="h-4 w-4 text-violet-400" /> Developer Portfolio & Ecosystem
+          </h3>
+          <p className="text-[13px] text-muted mb-3">
+            More open-source systems & frameworks created by <strong>Kitub</strong>:
+          </p>
+          <a
+            href="https://github.com/kituontop69-cell/agent-skills-vault"
+            target="_blank"
+            rel="noreferrer"
+            className="group flex items-center justify-between rounded-xl border border-[rgb(var(--border))] p-3 transition hover:border-violet-500/50 hover:bg-violet-500/5"
+          >
+            <div>
+              <div className="text-[13px] font-medium text-foreground flex items-center gap-2">
+                <span>🏛️ The Agent Skills Vault</span>
+                <Badge tone="accent">5,600+ Skills</Badge>
+              </div>
+              <p className="text-[12px] text-muted mt-0.5">
+                Curated autonomous AI agent capabilities, runtimes, and execution harnesses.
+              </p>
+            </div>
+            <ExternalLink className="h-4 w-4 text-muted group-hover:text-violet-400 shrink-0 ml-2 transition" />
+          </a>
         </div>
 
         <div className="card p-5">

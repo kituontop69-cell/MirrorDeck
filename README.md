@@ -168,6 +168,17 @@ MirrorDeck/
 
 ---
 
+## 🌐 Featured Portfolio Projects
+
+Explore other flagship open-source developer tools and systems by **Kitub**:
+
+| Project | Description | Repository |
+|---|---|---|
+| 🏛️ **Agent Skills Vault** | **5,600+ Curated Autonomous AI Agent Skills**, system prompts, execution harnesses, and production workflows for Antigravity, Claude Code, Cline, and OpenCode. | [![agent-skills-vault](https://img.shields.io/badge/GitHub-agent--skills--vault-10b981?style=flat&logo=github)](https://github.com/kituontop69-cell/agent-skills-vault) |
+| 📱 **MirrorDeck** | High-performance Android management & ultra-low latency screen mirroring desktop workstation powered by Tauri v2, React, and Nova engine. | [![MirrorDeck](https://img.shields.io/badge/GitHub-MirrorDeck-8b5cf6?style=flat&logo=github)](https://github.com/kituontop69-cell/MirrorDeck) |
+
+---
+
 ## 📄 License
 
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
